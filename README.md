@@ -1,4 +1,4 @@
-### Hi everyone! I'm Valerio 👋 Italian, living in the UK 😎
+## *Hi everyone! I'm Valerio* 👋 *Italian, living in the UK* 😎
 
 ### I am a Full Stack Javascript Developer and a [School of Code](https://www.schoolofcode.co.uk/) bootcamper.
 
