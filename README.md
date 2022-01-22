@@ -2,6 +2,8 @@
 
 ### 💻 I am a Full Stack Javascript Developer and a [School of Code](https://www.schoolofcode.co.uk/) bootcamper.
 
+![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
+
 ### 🔥 Looking to see my work? I think you might like [SchoolOfCode Link Tracker](https://soc-links-tracker.herokuapp.com/) or [myQuotesCollection](https://quote-generator-full-stack.herokuapp.com/)
 
 ### Toolkit:
@@ -22,6 +24,12 @@
 - 🟣 Brazilian Jiu Jitsu Purple Belt
 - 🍤 Food Lover
 
+### Get in touch!
+- ✉️ valeriocipolla92@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerioCipolla&show_icons=true&theme=tokyonight)](https://github.com/ValerioCipolla/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioCipolla&show_icons=true&theme=tokyonight)](https://github.com/ValerioCipolla/github-readme-stats)
 
 
 <!--
