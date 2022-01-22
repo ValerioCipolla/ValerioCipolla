@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi everyone! I'm Valerio 👋 Italian, living in the UK 😎
+
+### I am a Full Stack Javascript Developer and a [School of Code](https://www.schoolofcode.co.uk/) bootcamper.
+
+### Tech Stack:
+* Javascript
+* Node.js
+* React
+* Jest
+* HTML
+* CSS
+
+### 🌞 Facts about me 🌞
+- 📖 Psychology graduate
+- 💪 Certified Personal Trainer and Sports Massage Therapist
+- ♟️ Chess Player
+- 🟣 Brazilian Jiu Jitsu Purple Belt
+- 🍤 Food Lover
+
+
 
 <!--
 **ValerioCipolla/ValerioCipolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
