@@ -5,10 +5,11 @@
 ### Tech Stack:
 * Javascript
 * Node.js
-* React
+* React JS
 * Jest
 * HTML
 * CSS
+* postgreSQL
 
 ### 🌞 Facts about me 🌞
 - 📖 Psychology graduate
