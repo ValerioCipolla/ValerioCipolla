@@ -1,6 +1,8 @@
 ## *Hi everyone! I'm Valerio* 👋 *Italian, living in the UK* 😎
 
-### I am a Full Stack Javascript Developer and a [School of Code](https://www.schoolofcode.co.uk/) bootcamper.
+### 💻 I am a Full Stack Javascript Developer and a [School of Code](https://www.schoolofcode.co.uk/) bootcamper.
+
+### 🔥 Looking to see my work? I think you might like [SchoolOfCode Link Tracker](https://soc-links-tracker.herokuapp.com/) or [myQuotesCollection](https://quote-generator-full-stack.herokuapp.com/)
 
 ### Toolkit:
 * Javascript 
