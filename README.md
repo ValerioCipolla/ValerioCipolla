@@ -2,14 +2,16 @@
 
 ### I am a Full Stack Javascript Developer and a [School of Code](https://www.schoolofcode.co.uk/) bootcamper.
 
-### Tech Stack:
-* Javascript
+### Toolkit:
+* Javascript 
 * Node.js
 * React JS
 * Jest
 * HTML
 * CSS
 * postgreSQL
+* Agile 
+* UX/UI design
 
 ### 🌞 Facts about me 🌞
 - 📖 Psychology graduate
