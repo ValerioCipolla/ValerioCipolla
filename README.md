@@ -15,7 +15,7 @@
 
 ### 🌞 Facts about me 🌞
 - 📖 Psychology graduate
-- 💪 Certified Personal Trainer and Sports Massage Therapist
+- 💪 Certified Personal Trainer & Sports Massage Therapist
 - ♟️ Chess Player
 - 🟣 Brazilian Jiu Jitsu Purple Belt
 - 🍤 Food Lover
