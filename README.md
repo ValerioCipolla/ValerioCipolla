@@ -6,7 +6,7 @@
 
 ### 🔥 Looking to see my work? I think you might like [SchoolOfCode Link Tracker](https://soc-links-tracker.herokuapp.com/) or [myQuotesCollection](https://quote-generator-full-stack.herokuapp.com/)
 
-### Toolkit:
+### 🔨 Toolkit:
 * Javascript 
 * Node.js
 * React JS
