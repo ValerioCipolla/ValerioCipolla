@@ -18,7 +18,7 @@
 * UX/UI design
 
 ### 🌞 Facts about me 🌞
-- 📖 Psychology graduate
+- 🧠 Psychology graduate
 - 💪 Certified Personal Trainer & Sports Massage Therapist
 - ♟️ Chess Player
 - 🟣 Brazilian Jiu Jitsu Purple Belt
