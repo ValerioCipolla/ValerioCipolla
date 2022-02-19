@@ -14,6 +14,7 @@
 * HTML
 * CSS
 * postgreSQL
+* MongoDB
 * Agile 
 * UX/UI design
 
