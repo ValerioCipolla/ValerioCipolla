@@ -28,6 +28,7 @@
 ### Get in touch!
 - ✉️ valeriocipolla92@gmail.com
 - 🧔 [LinkedIn Profile](https://www.linkedin.com/in/valerio-cipolla-software-engineer/)
+- 💻 [Portfolio](https://valeriocipolla.netlify.app/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerioCipolla&show_icons=true&theme=tokyonight)](https://github.com/ValerioCipolla/github-readme-stats)
 
