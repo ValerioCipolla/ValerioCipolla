@@ -4,7 +4,7 @@
 
 ![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
 
-### 🔥 Looking to see my work? I think you might like [SchoolOfCode Link Tracker](https://soc-links-tracker.herokuapp.com/) or [myQuotesCollection](https://quote-generator-full-stack.herokuapp.com/)
+### 🔥 Looking to see my work? I think you might like [SchoolOfCode Link Tracker](https://soc-links-tracker.herokuapp.com/) or check out my [Portfolio](https://valeriocipolla.netlify.app/)!
 
 ### 🔨 Toolkit:
 * Javascript 
