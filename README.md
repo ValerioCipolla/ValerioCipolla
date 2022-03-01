@@ -4,7 +4,7 @@
 
 ![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
 
-### 🔥 Looking to see my work? I think you might like [SchoolOfCode Link Tracker](https://soc-links-tracker.herokuapp.com/) or check out my [Portfolio](https://valeriocipolla.netlify.app/)!
+### 🔥 Looking to see my work? Check out my [Portfolio](https://valeriocipolla.netlify.app/)!
 
 ### 🔨 Toolkit:
 * Javascript 
@@ -33,19 +33,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerioCipolla&show_icons=true&theme=tokyonight)](https://github.com/ValerioCipolla/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioCipolla&show_icons=true&theme=tokyonight)](https://github.com/ValerioCipolla/github-readme-stats)
-
-
-<!--
-**ValerioCipolla/ValerioCipolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
