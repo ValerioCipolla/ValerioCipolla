@@ -7,7 +7,7 @@
 
 ![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
 
-#### 🔥 Looking to see my work? Check out my [Portfolio](https://valeriocipolla.netlify.app/)!
+### 🔥 Check out my 👉 [Portfolio](https://valeriocipolla.netlify.app/) 👈
 
 ## 🖥️ Tech Stack
 ### - Languages
