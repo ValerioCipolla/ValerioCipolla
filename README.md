@@ -3,10 +3,8 @@
 # Hi everyone! I'm Valerio 👋 *Italian, living in the UK* 😎
 
 ## 💻 Software Engineer & Full Stack Javascript Developer  
-#### Currenty a [School of Code](https://www.schoolofcode.co.uk/) bootcamper, highly skilled in problem solving and logical thinking I seek to apply my best qualities to the challenges of the tech Industry
-
-![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
-
+  ![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
+  
 ### 🔥 Check out my 👉 [Portfolio](https://valeriocipolla.netlify.app/) 👈
 
 ## 🖥️ Tech Stack
