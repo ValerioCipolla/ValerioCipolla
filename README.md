@@ -57,7 +57,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
-## Currently learning...
+## 🔖 Currently learning...
   - 🐍 Python
   - 👨‍🔬 Computer Science
   - ☁️ Cloud Computing and AWS
