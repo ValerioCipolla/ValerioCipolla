@@ -3,6 +3,7 @@
 # Hi everyone! I'm Valerio 👋 *Italian, living in the UK* 😎
 
 ## 💻 Software Engineer & Full Stack Javascript Developer  
+  
   ![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
   
 ### 🔥 Check out my 👉 [Portfolio](https://valeriocipolla.netlify.app/) 👈
@@ -55,6 +56,11 @@
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
+## Currently learning...
+  - 🐍 Python
+  - 👨‍🔬 Computer Science
+  - ☁️ Cloud Computing and AWS
 
 ## 🚀 Facts about me
 - 🧠 Psychology graduate
