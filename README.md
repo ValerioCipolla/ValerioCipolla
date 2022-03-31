@@ -62,7 +62,7 @@
   
 ## 🔖 Currently learning...
   - 🐍 Python
-  - 👨‍🔬 Computer Science
+  - ♾️ DevOps & CI/CD
   - ☁️ Cloud Computing and AWS
 
 ## 🚀 Facts about me
