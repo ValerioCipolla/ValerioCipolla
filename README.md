@@ -1,13 +1,26 @@
 <div align="left">
   
-# Hi everyone! I'm Valerio 👋 *Italian, living in the UK* 😎
-
-## 💻 Software Engineer & Full Stack Javascript Developer  
+# Hello, World! 👋 I am Valerio 😎 Italian, living in the UK.
   
   ![codewars badge](https://www.codewars.com/users/valerio_c/badges/large)
   
-### 🔥 Check out my 👉 [Portfolio](https://valeriocipolla.netlify.app/) 👈
-
+## About me
+  I have a BSc in Psychology and I am passionate about Software, Data and solving problems.
+  
+  I am a [School of Code](https://www.schoolofcode.co.uk/) gradute - 16 weeks intensive bootcamp in Full Stack Software Development.
+  
+  I love learning new things and expanding my toolbox, I find exciting writing beautiful, clean and testable code. My goal is to solve real world, complex problems     through the use of technology and software.
+  
+  Automating boring tasks makes me happy, and for that reason I am now learning more about DevOps and CI/CD.
+  
+  As well as attending the bootcamp I'm also working through the [freeCodeCamp](https://www.freecodecamp.org/) Curriculum, so far I have earned 3 certifications:
+  - [Responsive Web Design](https://www.freecodecamp.org/certification/valeriocipolla/responsive-web-design)
+  - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/valeriocipolla/javascript-algorithms-and-data-structures)
+  - [Scientific Computing with Python](https://www.freecodecamp.org/certification/valeriocipolla/scientific-computing-with-python-v7)
+  
+  Currently working on the 4th one:
+  - [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+  
 ## 🖥️ Tech Stack
 ### - Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,16 +79,16 @@
   - ☁️ Cloud Computing and AWS
 
 ## 🚀 Facts about me
-- 🧠 Psychology graduate
-- 💪 Certified Personal Trainer & Sports Massage Therapist
-- ♟️ Chess Player
-- 🟣 Brazilian Jiu Jitsu Purple Belt
-- 🍤 Food Lover
+  - 🧠 Psychology graduate
+  - 💪 Certified Personal Trainer & Sports Massage Therapist
+  - ♟️ Chess Player
+  - 🟣 Brazilian Jiu Jitsu Purple Belt
+  - 🍤 Food Lover
 
 ## 🍾 Get in touch!
-- ✉️ valeriocipolla92@gmail.com
-- 🧔 [LinkedIn Profile](https://www.linkedin.com/in/valerio-cipolla-software-engineer/)
-- 💻 [Portfolio](https://valeriocipolla.netlify.app/)
+  - ✉️ valeriocipolla92@gmail.com
+  - 🧔 [LinkedIn Profile](https://www.linkedin.com/in/valerio-cipolla-software-engineer/)
+  - 💻 [Portfolio](https://valeriocipolla.netlify.app/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerioCipolla&show_icons=true&theme=tokyonight)](https://github.com/ValerioCipolla/github-readme-stats)
 
