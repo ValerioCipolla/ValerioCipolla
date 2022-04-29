@@ -11,7 +11,7 @@
   
   I love learning new things and expanding my toolbox, I find exciting writing beautiful, clean and testable code. My goal is to solve real world, complex problems     through the use of technology and software.
   
-  Automating boring tasks makes me happy, and for that reason I am now learning more about DevOps and CI/CD.
+  Automating boring tasks makes me happy and for that reason I am now learning more about DevOps and CI/CD.
   
   As well as attending the bootcamp I'm also working through the [freeCodeCamp](https://www.freecodecamp.org/) Curriculum, so far I have earned 3 certifications:
   - [Responsive Web Design](https://www.freecodecamp.org/certification/valeriocipolla/responsive-web-design)
