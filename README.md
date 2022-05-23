@@ -13,13 +13,14 @@
   
   Automating boring tasks makes me happy and for that reason I am now learning more about DevOps and CI/CD.
   
-  As well as attending the bootcamp I'm also working through the [freeCodeCamp](https://www.freecodecamp.org/) Curriculum, so far I have earned 3 certifications:
+  As well as attending the bootcamp I'm also working through the [freeCodeCamp](https://www.freecodecamp.org/) Curriculum, so far I have earned 4 certifications:
   - [Responsive Web Design](https://www.freecodecamp.org/certification/valeriocipolla/responsive-web-design)
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/valeriocipolla/javascript-algorithms-and-data-structures)
   - [Scientific Computing with Python](https://www.freecodecamp.org/certification/valeriocipolla/scientific-computing-with-python-v7)
+  - [Data Analysis with Python](https://www.freecodecamp.org/certification/valeriocipolla/data-analysis-with-python-v7)
   
-  Currently working on the 4th one:
-  - [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis)
+  Currently working on the 5th one:
+  - [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
   
 ## 🖥️ Tech Stack
 ### - Languages
